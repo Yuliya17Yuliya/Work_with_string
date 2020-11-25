@@ -1,0 +1,13 @@
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.exe
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.deps.json
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.runtimeconfig.json
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.runtimeconfig.dev.json
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.dll
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\bin\Debug\netcoreapp3.1\Wokr_with_string.pdb
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.csprojAssemblyReference.cache
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.AssemblyInfoInputs.cache
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.AssemblyInfo.cs
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.csproj.CoreCompileInputs.cache
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.dll
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.pdb
+C:\Users\Yulia\source\repos\Wokr_with_string\Wokr_with_string\obj\Debug\netcoreapp3.1\Wokr_with_string.genruntimeconfig.cache
